@@ -1,0 +1,245 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\Unity_Project\\hyld-master\\Server\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1BF72455-3703-4533-B1F5-C9CD31FC9CB3}|Server.csproj|g:\\unity_project\\hyld-master\\server\\dao\\userdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BF72455-3703-4533-B1F5-C9CD31FC9CB3}|Server.csproj|solutionrelative:dao\\userdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BF72455-3703-4533-B1F5-C9CD31FC9CB3}|Server.csproj|g:\\unity_project\\hyld-master\\server\\controller\\controllers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BF72455-3703-4533-B1F5-C9CD31FC9CB3}|Server.csproj|solutionrelative:controller\\controllers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BF72455-3703-4533-B1F5-C9CD31FC9CB3}|Server.csproj|g:\\unity_project\\hyld-master\\server\\server\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BF72455-3703-4533-B1F5-C9CD31FC9CB3}|Server.csproj|solutionrelative:server\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BF72455-3703-4533-B1F5-C9CD31FC9CB3}|Server.csproj|g:\\unity_project\\hyld-master\\server\\server\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BF72455-3703-4533-B1F5-C9CD31FC9CB3}|Server.csproj|solutionrelative:server\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BF72455-3703-4533-B1F5-C9CD31FC9CB3}|Server.csproj|g:\\unity_project\\hyld-master\\server\\controller\\controllermanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BF72455-3703-4533-B1F5-C9CD31FC9CB3}|Server.csproj|solutionrelative:controller\\controllermanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BF72455-3703-4533-B1F5-C9CD31FC9CB3}|Server.csproj|g:\\unity_project\\hyld-master\\server\\tool\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BF72455-3703-4533-B1F5-C9CD31FC9CB3}|Server.csproj|solutionrelative:tool\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BF72455-3703-4533-B1F5-C9CD31FC9CB3}|Server.csproj|g:\\unity_project\\hyld-master\\server\\server\\clientudp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BF72455-3703-4533-B1F5-C9CD31FC9CB3}|Server.csproj|solutionrelative:server\\clientudp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BF72455-3703-4533-B1F5-C9CD31FC9CB3}|Server.csproj|g:\\unity_project\\hyld-master\\server\\tool\\pingpongmanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BF72455-3703-4533-B1F5-C9CD31FC9CB3}|Server.csproj|solutionrelative:tool\\pingpongmanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BF72455-3703-4533-B1F5-C9CD31FC9CB3}|Server.csproj|g:\\unity_project\\hyld-master\\server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BF72455-3703-4533-B1F5-C9CD31FC9CB3}|Server.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BF72455-3703-4533-B1F5-C9CD31FC9CB3}|Server.csproj|g:\\unity_project\\hyld-master\\server\\controller\\eventhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BF72455-3703-4533-B1F5-C9CD31FC9CB3}|Server.csproj|solutionrelative:controller\\eventhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BF72455-3703-4533-B1F5-C9CD31FC9CB3}|Server.csproj|g:\\unity_project\\hyld-master\\server\\socketproto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BF72455-3703-4533-B1F5-C9CD31FC9CB3}|Server.csproj|solutionrelative:socketproto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BF72455-3703-4533-B1F5-C9CD31FC9CB3}|Server.csproj|g:\\unity_project\\hyld-master\\server\\server\\serverconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BF72455-3703-4533-B1F5-C9CD31FC9CB3}|Server.csproj|solutionrelative:server\\serverconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BF72455-3703-4533-B1F5-C9CD31FC9CB3}|Server.csproj|g:\\unity_project\\hyld-master\\server\\tool\\loging.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BF72455-3703-4533-B1F5-C9CD31FC9CB3}|Server.csproj|solutionrelative:tool\\loging.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BF72455-3703-4533-B1F5-C9CD31FC9CB3}|Server.csproj|g:\\unity_project\\hyld-master\\server\\log\\1.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{1BF72455-3703-4533-B1F5-C9CD31FC9CB3}|Server.csproj|solutionrelative:log\\1.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Controllers.cs",
+              "DocumentMoniker": "G:\\Unity_Project\\hyld-master\\Server\\Controller\\Controllers.cs",
+              "RelativeDocumentMoniker": "Controller\\Controllers.cs",
+              "ToolTip": "G:\\Unity_Project\\hyld-master\\Server\\Controller\\Controllers.cs",
+              "RelativeToolTip": "Controller\\Controllers.cs",
+              "ViewState": "AQIAANICAAAAAAAAAAAwwOsCAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T13:12:09.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ClientUdp.cs",
+              "DocumentMoniker": "G:\\Unity_Project\\hyld-master\\Server\\Server\\ClientUdp.cs",
+              "RelativeDocumentMoniker": "Server\\ClientUdp.cs",
+              "ToolTip": "G:\\Unity_Project\\hyld-master\\Server\\Server\\ClientUdp.cs",
+              "RelativeToolTip": "Server\\ClientUdp.cs",
+              "ViewState": "AQIAAEIBAAAAAAAAAAAAwE4BAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T05:32:14.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Server.cs",
+              "DocumentMoniker": "G:\\Unity_Project\\hyld-master\\Server\\Server\\Server.cs",
+              "RelativeDocumentMoniker": "Server\\Server.cs",
+              "ToolTip": "G:\\Unity_Project\\hyld-master\\Server\\Server\\Server.cs",
+              "RelativeToolTip": "Server\\Server.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHIAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T05:21:46.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Client.cs",
+              "DocumentMoniker": "G:\\Unity_Project\\hyld-master\\Server\\Server\\Client.cs",
+              "RelativeDocumentMoniker": "Server\\Client.cs",
+              "ToolTip": "G:\\Unity_Project\\hyld-master\\Server\\Server\\Client.cs",
+              "RelativeToolTip": "Server\\Client.cs",
+              "ViewState": "AQIAALwAAAAAAAAAAAAwwMcAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T05:09:33.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PingPongManger.cs",
+              "DocumentMoniker": "G:\\Unity_Project\\hyld-master\\Server\\Tool\\PingPongManger.cs",
+              "RelativeDocumentMoniker": "Tool\\PingPongManger.cs",
+              "ToolTip": "G:\\Unity_Project\\hyld-master\\Server\\Tool\\PingPongManger.cs",
+              "RelativeToolTip": "Tool\\PingPongManger.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T04:48:26.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Loging.cs",
+              "DocumentMoniker": "G:\\Unity_Project\\hyld-master\\Server\\Tool\\Loging.cs",
+              "RelativeDocumentMoniker": "Tool\\Loging.cs",
+              "ToolTip": "G:\\Unity_Project\\hyld-master\\Server\\Tool\\Loging.cs",
+              "RelativeToolTip": "Tool\\Loging.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T04:48:01.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Message.cs",
+              "DocumentMoniker": "G:\\Unity_Project\\hyld-master\\Server\\Tool\\Message.cs",
+              "RelativeDocumentMoniker": "Tool\\Message.cs",
+              "ToolTip": "G:\\Unity_Project\\hyld-master\\Server\\Tool\\Message.cs",
+              "RelativeToolTip": "Tool\\Message.cs",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAAwFQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T04:48:01.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "1.txt",
+              "DocumentMoniker": "G:\\Unity_Project\\hyld-master\\Server\\log\\1.txt",
+              "RelativeDocumentMoniker": "log\\1.txt",
+              "ToolTip": "G:\\Unity_Project\\hyld-master\\Server\\log\\1.txt",
+              "RelativeToolTip": "log\\1.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-03-26T02:34:57.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\Unity_Project\\hyld-master\\Server\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "G:\\Unity_Project\\hyld-master\\Server\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAFoAAAAAAAAAAAAswCsAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T02:12:22.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserData.cs",
+              "DocumentMoniker": "G:\\Unity_Project\\hyld-master\\Server\\DAO\\UserData.cs",
+              "RelativeDocumentMoniker": "DAO\\UserData.cs",
+              "ToolTip": "G:\\Unity_Project\\hyld-master\\Server\\DAO\\UserData.cs",
+              "RelativeToolTip": "DAO\\UserData.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T07:34:59.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ControllerManger.cs",
+              "DocumentMoniker": "G:\\Unity_Project\\hyld-master\\Server\\Controller\\ControllerManger.cs",
+              "RelativeDocumentMoniker": "Controller\\ControllerManger.cs",
+              "ToolTip": "G:\\Unity_Project\\hyld-master\\Server\\Controller\\ControllerManger.cs",
+              "RelativeToolTip": "Controller\\ControllerManger.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T13:16:51.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SocketProto.cs",
+              "DocumentMoniker": "G:\\Unity_Project\\hyld-master\\Server\\SocketProto.cs",
+              "RelativeDocumentMoniker": "SocketProto.cs",
+              "ToolTip": "G:\\Unity_Project\\hyld-master\\Server\\SocketProto.cs",
+              "RelativeToolTip": "SocketProto.cs",
+              "ViewState": "AQIAABoBAAAAAAAAAAAWwC0BAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T02:30:02.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EventHandler.cs",
+              "DocumentMoniker": "G:\\Unity_Project\\hyld-master\\Server\\Controller\\EventHandler.cs",
+              "RelativeDocumentMoniker": "Controller\\EventHandler.cs",
+              "ToolTip": "G:\\Unity_Project\\hyld-master\\Server\\Controller\\EventHandler.cs",
+              "RelativeToolTip": "Controller\\EventHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T13:16:48.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ServerConfig.cs",
+              "DocumentMoniker": "G:\\Unity_Project\\hyld-master\\Server\\Server\\ServerConfig.cs",
+              "RelativeDocumentMoniker": "Server\\ServerConfig.cs",
+              "ToolTip": "G:\\Unity_Project\\hyld-master\\Server\\Server\\ServerConfig.cs",
+              "RelativeToolTip": "Server\\ServerConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T05:16:08.639Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

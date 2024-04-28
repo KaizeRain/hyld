@@ -1,0 +1,4 @@
+启动监听0.0.0.0:7778成功
+at Logging.Debug::frame.GetMethod().Name  in  D:\XuanShuiLiuLi\HYLDNew\hyld\Server\Tool\Loging.cs cs:line  35
+at Server.Server::frame.GetMethod().Name  in  D:\XuanShuiLiuLi\HYLDNew\hyld\Server\Server\Server.cs cs:line  51
+at Server.Program::frame.GetMethod().Name  in  D:\XuanShuiLiuLi\HYLDNew\hyld\Server\Program.cs cs:line  32
